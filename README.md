@@ -1,5 +1,5 @@
 # Arduino-gamecontroller
-Controll your games with the ardunio using serial and python!
+Controll your games with an ardunio and an joystick using serial and python!
 
 Requirements:
 
